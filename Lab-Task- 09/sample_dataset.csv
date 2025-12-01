@@ -1,0 +1,11 @@
+id,age,gender,score,city
+1,23,M,85,Karachi
+2,30,F,78,Lahore
+3,27,M,,Islamabad
+4,22,F,92,Lahore
+5,,M,74,Karachi
+6,29,F,88,Islamabad
+7,24,M,95,Lahore
+8,26,F,81,Karachi
+9,28,M,89,Lahore
+10,25,F,,Islamabad
